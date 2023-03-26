@@ -105,12 +105,12 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.91.91.28:8081/repository/paypal-snapshots/</url>
+	      <url>http://54.91.91.28:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>maven-web-app</finalName>
 		
 		<plugins>
 			<plugin>
