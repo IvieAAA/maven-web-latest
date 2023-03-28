@@ -10,8 +10,8 @@
 </head>
 <body>
 <h1 align="center">Landmark Technology - Leaders in Software Delivery</h1>
-<h1 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on March 30, 2023 at 8am EST for our new batch. 
-	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Infrastructures. We are creating millionaires globally.
+<h1 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on March 29, 2023 EST for our new batch. 
+	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Infrastructures. We are creating Devops engineers globally.
 	</h1>
 	<h1 align="center" >JESUS IS LORD</h1>
 <hr>
